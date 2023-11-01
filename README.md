@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tyler, an IT and Cybersecurity Enthusiast and Aspiring Professional</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Stay tuned! I'm currently working on several projects to showcase.
 
