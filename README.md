@@ -2,7 +2,13 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Stay tuned! I'm currently working on several projects to showcase.
+- <b>Cybersecurity Projects</b>
+  - [Building a Honeynet and SOC in Azure with real-world cyber attacks](https://github.com/TylerDeaver/Azure-SOC)
+  - OpenVAS Vulnerability Management - In Progress
+
+
+- <b>IT Projects</b>
+  - Active Directory simulation - In Progress
 
 <h2> 🤳 Connect with me:</h2>
 
