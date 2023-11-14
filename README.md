@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Building a Honeynet and SOC in Azure with real-world cyber attacks](https://github.com/TylerDeaver/Azure-SOC)
+  - [Building a Honeynet and SOC in Azure with Real-World Cyber Attacks](https://github.com/TylerDeaver/Azure-SOC)
   - OpenVAS Vulnerability Management - In Progress
 
 
