@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Building a Honeynet and SOC in Azure with Real-World Cyber Attacks](https://github.com/TylerDeaver/Azure-SOC)
-  - [Vulnerability Management with OpenVASt](https://github.com/TylerDeaver/OpenVAS)
+  - [Vulnerability Management with OpenVAS](https://github.com/TylerDeaver/OpenVAS)
   - Vulnerability Management with Qaulys - In Progress
 
 - <b>IT Projects</b>
