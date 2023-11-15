@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/>I'm an Aspiring IT/Cybersecurity Professional</h1>
+<h1>Hi, I'm Tyler! <br/>I'm an aspiring IT and Cybersecurity Professional</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
