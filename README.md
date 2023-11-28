@@ -9,7 +9,7 @@
   - Vulnerability Management with Tenable - In Progress
 
 - <b>IT Projects</b>
-  - [Active Directory Simulation](https://github.com/TylerDeaver/ActiveDirectory)
+  - [Active Directory Simulation in Oracle VirtualBox](https://github.com/TylerDeaver/ActiveDirectory)
 
 <h2> 🤳 Connect with me:</h2>
 
