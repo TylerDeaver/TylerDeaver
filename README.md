@@ -9,7 +9,7 @@
   - Vulnerability Management with Tenable - In Progress
 
 - <b>IT Projects</b>
-  - Active Directory Simulation - In Progress
+  - [Active Directory Simulation](https://github.com/TylerDeaver/ActiveDirectory)
 
 <h2> 🤳 Connect with me:</h2>
 
