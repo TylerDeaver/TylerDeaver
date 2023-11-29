@@ -5,8 +5,8 @@
 - <b>Cybersecurity Projects</b>
   - [Building a Honeynet and SOC in Azure with Real-World Cyber Attacks](https://github.com/TylerDeaver/Azure-SOC)
   - [Vulnerability Management with OpenVAS](https://github.com/TylerDeaver/OpenVAS)
-  - [Vulnerability Management with Qaulys](https://github.com/TylerDeaver/Qualys)
-  - [Vulnerability Management with Tenable](https://github.com/TylerDeaver/Nessus/)
+  - [Vulnerability Management with Qualys](https://github.com/TylerDeaver/Qualys)
+  - [Vulnerability Management with Tenable Nessus](https://github.com/TylerDeaver/Nessus/)
   - Mock Vulnerability Report - In Progress
 
 - <b>IT Projects</b>
