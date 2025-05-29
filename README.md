@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/>I'm a Cyber Security Asset Analyst</h1>
+<h1>Hello, my name is Tyler. I'm a Cyber Security Enginner with a focus on asset management, incident response, and threat hunting. I'm also a former Police Officer with experience in Digital Forensics and IT Administration.</h2>
 
 <h2>👨‍💻 My Projects:</h2>
 
@@ -12,7 +12,7 @@
 - <b>IT Projects</b>
   - [Active Directory Simulation in Oracle VirtualBox](https://github.com/TylerDeaver/ActiveDirectory)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me on LinkedIn:</h2> 
 
 [<img align="left" alt="Tyler-Deaver | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
